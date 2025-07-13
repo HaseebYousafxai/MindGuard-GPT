@@ -49,19 +49,19 @@
 
 ```
 
-mindguard-gpt/
-├── api.py                     # FastAPI server and endpoints
-├── rag\_pipeline.py            # RAG logic: retrieve + generate
-├── embed\_and\_index.py         # PDF/CSV chunking and FAISS index creation
-├── mindguard\_index.idx        # Saved FAISS index
-├── mindguard\_chunks.pkl       # Saved document chunks
-├── data/
-│   ├── dsm5tr.pdf             # Source document (DSM-5-TR)
-│   └── mental\_health.csv      # Large-scale structured dataset
-├── static/                    # Frontend assets (JS, CSS, icons)
-├── templates/                 # HTML templates
-├── .env                       # API keys and environment settings
-└── README.md
+- mindguard-gpt/
+- ├── api.py                     # FastAPI server and endpoints
+- ├── rag\_pipeline.py            # RAG logic: retrieve + generate
+- ├── embed\_and\_index.py         # PDF/CSV chunking and FAISS index creation
+- ├── mindguard\_index.idx        # Saved FAISS index
+- ├── mindguard\_chunks.pkl       # Saved document chunks
+- ├── data/
+- │   ├── dsm5tr.pdf             # Source document (DSM-5-TR)
+- │   └── mental\_health.csv      # Large-scale structured dataset
+- ├── static/                    # Frontend assets (JS, CSS, icons)
+- ├── templates/                 # HTML templates
+- ├── .env                       # API keys and environment settings
+- └── README.md
 
 ````
 
