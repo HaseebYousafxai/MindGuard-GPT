@@ -167,8 +167,8 @@ MIT License. See `LICENSE` file for details.
 
 For queries, collaboration, or feedback:
 
-📧 \[[your-email@example.com](mailto:haseebyousafxai81@gmail.com)]
-🌐 \[https://haseebyousafxai.github.io/HaseebYousafxai/]
+📧 \[📧](mailto:haseebyousafxai81@gmail.com)
+🌐 \[🌐](https://haseebyousafxai.github.io/HaseebYousafxai/)
 
 ---
 
